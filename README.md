@@ -3,7 +3,7 @@ This is a replication of a famous simulation called Conway's Game of Life. This 
 and is determied by the states of the surrounding 8 cells.
 
 The purpose of this project is to understand how a simulation is achieved with looping, learn about concurrency in C++, and serve as a practice exercise for analyzing whether incorporating concurrency is necessary 
-to optimize its performance or functionality
+to optimize its performance or functionality.
 
 [Software Demo Video](https://youtu.be/Gdtld0_DThA)
 
