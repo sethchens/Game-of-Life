@@ -5,9 +5,7 @@ and is determied by the states of the surrounding 8 cells.
 The purpose of this project is to understand how a simulation is achieved with looping, learn about concurrency in C++, and serve as a practice exercise for analyzing whether incorporating concurrency is necessary 
 to optimize its performance or functionality
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Gdtld0_DThA)
 
 # Development Environment
 ## Tools
